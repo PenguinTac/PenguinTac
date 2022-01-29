@@ -1,6 +1,6 @@
 - Hi, I’m @PenguinTac
-- I’m interested in: Game Development in C++ or C#
-- I’m currently learning: C++
+- I’m interested in: Game Development in C++ or C# and Machine Learning
+- I’m currently learning: Machine Learning with TensorFlow
 - I’m looking to collaborate on: Nothing Currently
 
 <!---
